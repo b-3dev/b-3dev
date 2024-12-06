@@ -13,6 +13,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=b-3dev&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-![](https://visitcount.itsvg.in/api?id=b-3dev&icon=0&color=0)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://visitcount.itsvg.in/api?id=b-3dev&icon=2&color=0)
